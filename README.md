@@ -1,6 +1,5 @@
-<h2>SkyLiteDemo Project: A SkyLite Framework Showcase</h2>
+<h2>SkyLite Framework Showcase Project</h2>
 
-Attached MS-SQL Database : SKYLITEDEMO.BAK (full-backup)<br>
 <br>
 
 - SKYLITE framework (C#/VB) <br>
@@ -14,7 +13,7 @@ Architecture: Middleware-based <br>
 - Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
 - Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
 
-support: hkim6000@gmail.com<br><br>
+<br>
 
 
 <h4>Introduction</h4>
